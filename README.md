@@ -1,3 +1,5 @@
+![Profile views counter](https://komarev.com/ghpvc/?username=krankos&&style=flat-square) 
+
 - 👋 Hi, I’m Khalil Bessaad
 - 👀 I’m interested in web dev, fintech and systems design.
 
