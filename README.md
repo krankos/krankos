@@ -4,7 +4,7 @@
 - 👀 I’m interested in web dev, fintech and systems design.
 
 
-[![Kronk0s's GitHub stats](https://github-readme-stats.vercel.app/api?username=krankos&include_all_commits=true&theme=aura)](https://github.com/krankos/github-readme-stats)
+[![Kronk0s's GitHub stats](https://github-readme-stats.vercel.app/api?username=krankos&include_all_commits=true&theme=aura)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=krankos&langs_count=5&theme=aura)]()
 
 
